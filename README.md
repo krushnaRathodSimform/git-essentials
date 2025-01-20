@@ -1,3 +1,3 @@
-# Hello
+# Git Essentials / Git for Everybody
 
 
